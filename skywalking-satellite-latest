@@ -1,1 +1,0 @@
-FROM  skywalking.docker.scarf.sh/apache/skywalking-satellite:latest
