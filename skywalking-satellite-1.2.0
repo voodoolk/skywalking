@@ -1,1 +1,1 @@
-FROM  skywalking.docker.scarf.sh/apache/skywalking-satellite:1.2.0
+FROM  skywalking.docker.scarf.sh/apache/skywalking-satellite:v1.2.0
